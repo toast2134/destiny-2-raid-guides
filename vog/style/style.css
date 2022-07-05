@@ -1,0 +1,34 @@
+@font-face {
+	font-family: "FuturaBook";
+	src: url("FBook.otf") format("opentype");
+}
+body {
+	background-color: #1D1E26;
+	color: white;
+	font-family: "FuturaBook";
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-bottom: 5%;
+	font-size: 150%;
+}
+h1{
+	text-align: center;
+	
+}
+table, th, td {
+	border: 1px solid black;
+	border-collapse: collapse;
+	border-color: white;
+	
+}
+th, td {
+	padding: 15px;
+	
+}
+p {
+	
+}
+a:link {color: white; text-decoration: none;}      /* unvisited link */
+a:visited {color: white; text-decoration: none;}   /* visited link */
+a:hover {color: red; text-decoration: none;}     /* mouse over link */
+a:active {color: yellow;text-decoration: none;} 		/* selected link */
