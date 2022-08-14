@@ -1,8 +1,22 @@
-/*Body*/
-body{
-	background-color: #2e3447;
+@font-face {
+	font-family: "FuturaBook";
+	src: url("FBook.otf") format("opentype");
 }
 
-main{
+/*Body*/
+body{
+  background-color: #1D1E26;
+  font-family: "FuturaBook";
+  margin-left: 10%;
+	margin-right: 10%;
+	margin-bottom: 5%;
+	font-size: 150%;
   color: white;
 }
+
+h1, h2{
+  text-align: center;
+
+}
+
+
