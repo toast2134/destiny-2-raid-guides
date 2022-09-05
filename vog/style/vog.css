@@ -3,8 +3,8 @@
 	src: url("../../style/FBook.otf") format("opentype");
 }
 body {
-	background-color: #1D1E26;
-	color: white;
+	background-color: #2f3834;
+	color: #FFFEF7;
 	font-family: "FuturaBook";
 	margin-left: 10%;
 	margin-right: 10%;
@@ -13,10 +13,9 @@ body {
 }
 h1{
 	text-align: center;
-	
 }
 hr{
-	background-color:white
+	background-color:#FFFEF7;
 }
 table, th, td {
 	border: 1px solid black;
@@ -28,6 +27,6 @@ th, td {
 	padding: 15px;
 }
 
-a:link {color: white; text-decoration: none;}      /* unvisited link */
-a:visited {color: white; text-decoration: none;}   /* visited link */
-a:hover {color: red; text-decoration: none;}     /* mouse over link */
+a:link {color: #FFFEF7; text-decoration: none;}      /* unvisited link */
+a:visited {color: #FFFEF7; text-decoration: none;}   /* visited link */
+a:hover {color: #a97142; text-decoration: none;}     /* mouse over link */
